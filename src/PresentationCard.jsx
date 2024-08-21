@@ -8,7 +8,7 @@ function PresentationCard (){
         <div className="presentation-card">
             <img src={imagenAvatar} alt="Avatar" className="avatar" />
             <h1>
-                Hola, soy { name } y esto aprendiendo React
+                Hola, soy { name } y estoy aprendiendo React
             </h1>
         </div>
     )
